@@ -1,0 +1,15 @@
+jacobi :
+
+compiler avec gcc -Wall -o jacobi jacobi.c -lgmp
+
+fermat :
+
+compiler avec gcc -Wall -o fermat fermat.c -lgmp -lm
+
+solovaystrassen :
+
+compiler avec gcc -Wall -o solovaystrassen solovaystrassen.c -lgmp -lm
+
+millerrabin :
+
+compiler gcc -Wall -o millerrabin millerrabin.c -lgmp -lm
