@@ -13,3 +13,6 @@ compiler avec gcc -Wall -o solovaystrassen solovaystrassen.c -lgmp -lm
 millerrabin :
 
 compiler gcc -Wall -o millerrabin millerrabin.c -lgmp -lm
+
+
+Les éléments mathématiques, notamment les démonstrations, sont présentes dans le rapport fourni.
